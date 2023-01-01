@@ -1,5 +1,6 @@
 
 #www.linkedin.com/onstarlan
+#www.medium.com/onstarlan
 import matplotlib.pyplot as plt 
 import numpy as np
 
